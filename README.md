@@ -6,9 +6,9 @@ Mon principal projet se nomme **FédiQuébec** ([fedi.quebec](https://fedi.quebe
 
 J'y héberge ces instance :
 **Production**
-([Mastodon.fedi.quebec](https://mastodon.fedi.quebec))
-([PeerTube.fedi.quebec](https://peertube.fedi.quebec))
+* ([Mastodon.fedi.quebec](https://mastodon.fedi.quebec))
+* ([PeerTube.fedi.quebec](https://peertube.fedi.quebec))
 **Privé**
-([Funkwhale.fedi.quebec](https://funkwhale.fedi.quebec))
+* ([Funkwhale.fedi.quebec](https://funkwhale.fedi.quebec))
 **Rodage**
-([Pixelfed.fedi.quebec](https://pixelfed.fedi.quebec))
+* ([Pixelfed.fedi.quebec](https://pixelfed.fedi.quebec))
