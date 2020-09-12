@@ -10,11 +10,12 @@ J'y héberge ces instances fédérées :
 
 * [Mastodon.fedi.quebec](https://mastodon.fedi.quebec)
 * [PeerTube.fedi.quebec](https://peertube.fedi.quebec)
+* [Plume.fedi.quebec](https://plume.fedi.quebec)
 
 **Privé**
 
 * [Funkwhale.fedi.quebec](https://funkwhale.fedi.quebec)
 
-**Rodage**
+**Rodage (ne fonctionne pas bien)**
 
 * [Pixelfed.fedi.quebec](https://pixelfed.fedi.quebec)
