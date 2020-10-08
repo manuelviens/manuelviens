@@ -9,6 +9,7 @@ J'y héberge ces instances fédérées :
 **Production**
 
 * [Mastodon.fedi.quebec](https://mastodon.fedi.quebec)
+* [Mobilizon.fedi.quebec](https://mobilizon.fedi.quebec)
 * [PeerTube.fedi.quebec](https://peertube.fedi.quebec)
 * [Plume.fedi.quebec](https://plume.fedi.quebec)
 
@@ -19,3 +20,6 @@ J'y héberge ces instances fédérées :
 **Rodage (ne fonctionne pas bien)**
 
 * [Pixelfed.fedi.quebec](https://pixelfed.fedi.quebec)
+
+Vous avez des problèmes à vous connecter à l'un des services? 
+Consultez l'[état des services](https://uptime.fedi.quebec/).
