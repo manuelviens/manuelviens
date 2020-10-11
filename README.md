@@ -8,14 +8,11 @@ J'y héberge ces instances fédérées :
 
 **Production**
 
+* [Funkwhale.fedi.quebec](https://funkwhale.fedi.quebec)
 * [Mastodon.fedi.quebec](https://mastodon.fedi.quebec)
 * [Mobilizon.fedi.quebec](https://mobilizon.fedi.quebec)
 * [PeerTube.fedi.quebec](https://peertube.fedi.quebec)
 * [Plume.fedi.quebec](https://plume.fedi.quebec)
-
-**Privé**
-
-* [Funkwhale.fedi.quebec](https://funkwhale.fedi.quebec)
 
 **Rodage (ne fonctionne pas bien)**
 
