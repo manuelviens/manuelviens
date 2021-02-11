@@ -4,7 +4,7 @@ Je ne suis pas programmeur. Mon dada est plutôt l'administration de système.
 
 Mon principal projet se nomme **FédiQuébec** ([fedi.quebec](https://fedi.quebec)).
 
-J'y héberge ces instances fédérées :
+J'y héberge ces instances fédérées via le protocole ActivityPub :
 
 **Production**
 
